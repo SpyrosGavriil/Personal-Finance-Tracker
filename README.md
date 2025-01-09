@@ -98,7 +98,3 @@ Do you want to see a plot? (y/n): y
 
 ## License
 This project is free to use and modify.
-
----
-
-Feel free to edit or enhance this README file as needed for your project! Let me know if you need further help. 😊
